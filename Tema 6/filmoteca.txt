@@ -1,0 +1,131 @@
+Avatar;James Cameron;Ciencia ficción;162;EE.UU.;2009
+Titanic;James Cameron;Romance;195;EE.UU.;1997
+Vengadores: Endgame;Anthony y Joe Russo;Acción;181;EE.UU.;2019
+Jurassic Park;Steven Spielberg;Ciencia ficción;127;EE.UU.;1993
+El Rey León;Roger Allers y Rob Minkoff;Animación;88;EE.UU.;1994
+Forrest Gump;Robert Zemeckis;Drama;142;EE.UU.;1994
+El Caballero Oscuro;Christopher Nolan;Acción;152;EE.UU.;2008
+Matrix;Lana y Lilly Wachowski;Ciencia ficción;136;EE.UU.;1999
+Gladiator;Ridley Scott;Acción;155;EE.UU.;2000
+Interestelar;Christopher Nolan;Ciencia ficción;169;EE.UU.;2014
+Inception;Christopher Nolan;Ciencia ficción;148;EE.UU.;2010
+El Señor de los Anillos: La Comunidad del Anillo;Peter Jackson;Fantasía;178;Nueva Zelanda;2001
+El Señor de los Anillos: Las Dos Torres;Peter Jackson;Fantasía;179;Nueva Zelanda;2002
+El Señor de los Anillos: El Retorno del Rey;Peter Jackson;Fantasía;201;Nueva Zelanda;2003
+Harry Potter y la piedra filosofal;Chris Columbus;Fantasía;152;Reino Unido;2001
+Harry Potter y la cámara secreta;Chris Columbus;Fantasía;161;Reino Unido;2002
+Harry Potter y el prisionero de Azkaban;Alfonso Cuarón;Fantasía;142;Reino Unido;2004
+Harry Potter y el cáliz de fuego;Mike Newell;Fantasía;157;Reino Unido;2005
+Harry Potter y la Orden del Fénix;David Yates;Fantasía;138;Reino Unido;2007
+Harry Potter y el misterio del príncipe;David Yates;Fantasía;153;Reino Unido;2009
+Harry Potter y las reliquias de la muerte - Parte 1;David Yates;Fantasía;146;Reino Unido;2010
+Harry Potter y las reliquias de la muerte - Parte 2;David Yates;Fantasía;130;Reino Unido;2011
+Star Wars: Una nueva esperanza;George Lucas;Ciencia ficción;121;EE.UU.;1977
+Star Wars: El Imperio contraataca;Irvin Kershner;Ciencia ficción;124;EE.UU.;1980
+Star Wars: El retorno del Jedi;Richard Marquand;Ciencia ficción;131;EE.UU.;1983
+Star Wars: El despertar de la fuerza;J.J. Abrams;Ciencia ficción;138;EE.UU.;2015
+Star Wars: Los últimos Jedi;Rian Johnson;Ciencia ficción;152;EE.UU.;2017
+Star Wars: El ascenso de Skywalker;J.J. Abrams;Ciencia ficción;142;EE.UU.;2019
+Spider-Man: No Way Home;Jon Watts;Acción;148;EE.UU.;2021
+Iron Man;Jon Favreau;Acción;126;EE.UU.;2008
+Los Vengadores;Joss Whedon;Acción;143;EE.UU.;2012
+Capitán América: Civil War;Anthony y Joe Russo;Acción;147;EE.UU.;2016
+Guardians de la Galaxia;James Gunn;Ciencia ficción;121;EE.UU.;2014
+Pantera Negra;Ryan Coogler;Acción;134;EE.UU.;2018
+El Hombre de Acero;Zack Snyder;Acción;143;EE.UU.;2013
+Joker;Todd Phillips;Drama;122;EE.UU.;2019
+La Liga de la Justicia;Zack Snyder;Acción;242;EE.UU.;2021
+Deadpool;Tim Miller;Acción;108;EE.UU.;2016
+Logan;James Mangold;Acción;137;EE.UU.;2017
+Piratas del Caribe: La maldición de la Perla Negra;Gore Verbinski;Aventuras;143;EE.UU.;2003
+Piratas del Caribe: El cofre del hombre muerto;Gore Verbinski;Aventuras;151;EE.UU.;2006
+Piratas del Caribe: En el fin del mundo;Gore Verbinski;Aventuras;169;EE.UU.;2007
+Toy Story;John Lasseter;Animación;81;EE.UU.;1995
+Toy Story 2;John Lasseter;Animación;92;EE.UU.;1999
+Toy Story 3;Lee Unkrich;Animación;103;EE.UU.;2010
+Up;Pete Docter;Animación;96;EE.UU.;2009
+Buscando a Nemo;Andrew Stanton;Animación;100;EE.UU.;2003
+Monstruos S.A.;Pete Docter;Animación;92;EE.UU.;2001
+Los Increíbles;Brad Bird;Animación;115;EE.UU.;2004
+Ratatouille;Brad Bird;Animación;111;EE.UU.;2007
+Del revés (Inside Out);Pete Docter;Animación;95;EE.UU.;2015
+Coco;Lee Unkrich y Adrian Molina;Animación;105;EE.UU.;2017
+Frozen;Chris Buck y Jennifer Lee;Animación;102;EE.UU.;2013
+Shrek;Andrew Adamson y Vicky Jenson;Animación;90;EE.UU.;2001
+Kung Fu Panda;Mark Osborne y John Stevenson;Animación;92;EE.UU.;2008
+Madagascar;Eric Darnell y Tom McGrath;Animación;86;EE.UU.;2005
+Los Minions;Kyle Balda y Pierre Coffin;Animación;91;EE.UU.;2015
+Gru, mi villano favorito;Pierre Coffin y Chris Renaud;Animación;95;EE.UU.;2010
+El Viaje de Chihiro;Hayao Miyazaki;Animación;125;Japón;2001
+Mi Vecino Totoro;Hayao Miyazaki;Animación;86;Japón;1988
+La La Land;Damien Chazelle;Musical;128;EE.UU.;2016
+Bohemian Rhapsody;Bryan Singer;Biografía;134;Reino Unido;2018
+Rocketman;Dexter Fletcher;Biografía;121;Reino Unido;2019
+Avatar: El sentido del agua;James Cameron;Ciencia ficción;192;EE.UU.;2022
+E.T. el extraterrestre;Steven Spielberg;Ciencia ficción;115;EE.UU.;1982
+Indiana Jones y el arca perdida;Steven Spielberg;Aventuras;115;EE.UU.;1981
+Indiana Jones y el templo maldito;Steven Spielberg;Aventuras;118;EE.UU.;1984
+Indiana Jones y la última cruzada;Steven Spielberg;Aventuras;127;EE.UU.;1989
+Misión Imposible;Brian De Palma;Acción;110;EE.UU.;1996
+Misión Imposible: Nación secreta;Christopher McQuarrie;Acción;131;EE.UU.;2015
+Top Gun;Tony Scott;Acción;110;EE.UU.;1986
+Top Gun: Maverick;Joseph Kosinski;Acción;131;EE.UU.;2022
+Terminator;James Cameron;Ciencia ficción;107;EE.UU.;1984
+Terminator 2: El juicio final;James Cameron;Ciencia ficción;137;EE.UU.;1991
+Alien: El octavo pasajero;Ridley Scott;Terror;117;EE.UU.;1979
+Aliens;James Cameron;Acción;137;EE.UU.;1986
+Depredador;John McTiernan;Acción;107;EE.UU.;1987
+Rambo;Ted Kotcheff;Acción;93;EE.UU.;1982
+Rocky;John G. Avildsen;Deportes;120;EE.UU.;1976
+Creed;Ryan Coogler;Deportes;133;EE.UU.;2015
+El Padrino;Francis Ford Coppola;Crimen;175;EE.UU.;1972
+El Padrino: Parte II;Francis Ford Coppola;Crimen;202;EE.UU.;1974
+El Padrino: Parte III;Francis Ford Coppola;Crimen;162;EE.UU.;1990
+Pulp Fiction;Quentin Tarantino;Crimen;154;EE.UU.;1994
+Kill Bill Vol. 1;Quentin Tarantino;Acción;111;EE.UU.;2003
+Kill Bill Vol. 2;Quentin Tarantino;Acción;137;EE.UU.;2004
+Django Desencadenado;Quentin Tarantino;Western;165;EE.UU.;2012
+Malditos Bastardos;Quentin Tarantino;Bélico;153;EE.UU.;2009
+Érase una vez en Hollywood;Quentin Tarantino;Comedia dramática;161;EE.UU.;2019
+Regreso al Futuro;Robert Zemeckis;Ciencia ficción;116;EE.UU.;1985
+Regreso al Futuro II;Robert Zemeckis;Ciencia ficción;108;EE.UU.;1989
+Regreso al Futuro III;Robert Zemeckis;Ciencia ficción;118;EE.UU.;1990
+Cazafantasmas;Ivan Reitman;Comedia;105;EE.UU.;1984
+Los Cazafantasmas (2016);Paul Feig;Comedia;116;EE.UU.;2016
+Jumanji;Joe Johnston;Aventuras;104;EE.UU.;1995
+Jumanji: Bienvenidos a la jungla;Jake Kasdan;Aventuras;119;EE.UU.;2017
+Jumanji: Siguiente nivel;Jake Kasdan;Aventuras;123;EE.UU.;2019
+The Batman;Matt Reeves;Acción;176;EE.UU.;2022
+Batman Begins;Christopher Nolan;Acción;140;EE.UU.;2005
+Salvar al Soldado Ryan;Steven Spielberg;Bélico;169;EE.UU.;1998
+Braveheart;Mel Gibson;Bélico;178;EE.UU.;1995
+Corazón Valiente;Mel Gibson;Bélico;178;EE.UU.;1995
+El Sexto Sentido;M. Night Shyamalan;Terror;107;EE.UU.;1999
+El Club de la Lucha;David Fincher;Drama;139;EE.UU.;1999
+Seven;David Fincher;Crimen;127;EE.UU.;1995
+La Red Social;David Fincher;Drama;120;EE.UU.;2010
+El Renacido;Alejandro G. Iñárritu;Aventuras;156;EE.UU.;2015
+Birdman;Alejandro G. Iñárritu;Comedia dramática;119;EE.UU.;2014
+Titanes, hicieron historia;Boaz Yakin;Deportes;113;EE.UU.;2000
+Jurassic World;Colin Trevorrow;Ciencia ficción;124;EE.UU.;2015
+Park Jurásico III;Joe Johnston;Ciencia ficción;92;EE.UU.;2001
+El Gran Showman;Michael Gracey;Musical;105;EE.UU.;2017
+La Bella y la Bestia;Bill Condon;Musical;129;EE.UU.;2017
+Aladdín;Guy Ritchie;Aventuras;128;EE.UU.;2019
+Rapunzel;Nathan Greno y Byron Howard;Animación;100;EE.UU.;2010
+Mulán;Tony Bancroft y Barry Cook;Animación;88;EE.UU.;1998
+Hércules;Ron Clements y John Musker;Animación;93;EE.UU.;1997
+Tarzán;Chris Buck y Kevin Lima;Animación;88;EE.UU.;1999
+Zootrópolis;Rich Moore;Animación;108;EE.UU.;2016
+Encanto;Jared Bush y Byron Howard;Animación;102;EE.UU.;2021
+Padre no hay más que uno;Santiago Segura;Comedia;98;España;2019
+Ocho apellidos vascos;Emilio Martínez-Lázaro;Comedia;98;España;2014
+Ocho apellidos catalanes;Emilio Martínez-Lázaro;Comedia;106;España;2015
+El laberinto del fauno;Guillermo del Toro;Fantasía;118;España;2006
+Tadeo Jones;Enrique Gato;Animación;92;España;2012
+Campeones;Javier Fesser;Comedia;124;España;2018
+Celda 211;Daniel Monzón;Thriller;113;España;2009
+La isla mínima;Alberto Rodríguez;Thriller;105;España;2014
+Mar adentro;Alejandro Amenábar;Drama;125;España;2004
+Ágora;Alejandro Amenábar;Histórica;127;España;2009
+El orfanato;J.A. Bayona;Terror;105;España;2007

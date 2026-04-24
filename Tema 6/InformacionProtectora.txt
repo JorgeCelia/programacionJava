@@ -1,0 +1,4 @@
+Toby;Pastor alemán;10;35.0
+Sam;Mestizo;15;22.3
+Debby;Collie;7;40.0
+Nyx;Mestizo;1;8.5

@@ -1,0 +1,197 @@
+Shape of You;Ed Sheeran;Pop;234;Divide;2017
+Blinding Lights;The Weeknd;Synthpop;200;After Hours;2019
+Bohemian Rhapsody;Queen;Rock;355;A Night at the Opera;1975
+Billie Jean;Michael Jackson;Pop;294;Thriller;1982
+Smells Like Teen Spirit;Nirvana;Grunge;301;Nevermind;1991
+Uptown Funk;Mark Ronson ft. Bruno Mars;Funk Pop;270;Uptown Special;2014
+Rolling in the Deep;Adele;Soul/Pop;228;21;2010
+Hotel California;Eagles;Rock;391;Hotel California;1976
+Highway to Hell;AC/DC;Hard Rock;208;Highway to Hell;1979
+Despacito;Luis Fonsi & Daddy Yankee;Reggaeton;228;Vida;2017
+Seven Nation Army;The White Stripes;Alternative Rock;231;Elephant;2003
+Hey Jude;The Beatles;Rock;431;Hey Jude;1968
+Poker Face;Lady Gaga;Electropop;238;The Fame;2008
+Someone Like You;Adele;Soul;285;21;2011
+Wonderwall;Oasis;Britpop;258;(What's the Story) Morning Glory?;1995
+Thunderstruck;AC/DC;Rock;292;The Razors Edge;1990
+Beat It;Michael Jackson;Rock/Pop;258;Thriller;1982
+Hips Don't Lie;Shakira ft. Wyclef Jean;Latin Pop;218;Oral Fixation vol. 2;2006
+Viva la Vida;Coldplay;Alternative;242;Viva la Vida;2008
+Take On Me;a-ha;Pop;225;Hunting High and Low;1985
+Bad Guy;Billie Eilish;Electropop;194;When We All Fall Asleep, Where Do We Go?;2019
+Shallow;Lady Gaga & Bradley Cooper;Pop;216;A Star Is Born;2018
+Lose Yourself;Eminem;Rap;326;8 Mile;2002
+Numb;Linkin Park;Nu Metal;185;Meteora;2003
+Halo;Beyoncé;Pop;261;I Am... Sasha Fierce;2008
+Can't Stop;Red Hot Chili Peppers;Funk Rock;271;By the Way;2002
+Africa;Toto;Rock/Pop;295;Toto IV;1982
+Radioactive;Imagine Dragons;Alternative;186;Night Visions;2012
+Every Breath You Take;The Police;Rock;258;Synchronicity;1983
+Sweet Child O' Mine;Guns N' Roses;Hard Rock;356;Appetite for Destruction;1987
+Closer;The Chainsmokers ft. Halsey;EDM;244;Collage;2016
+Livin' on a Prayer;Bon Jovi;Rock;249;Slippery When Wet;1986
+Senorita;Shawn Mendes & Camila Cabello;Pop;191;Romance;2019
+Old Town Road;Lil Nas X;Country Rap;157;7;2019
+Like a Rolling Stone;Bob Dylan;Folk Rock;369;Highway 61 Revisited;1965
+Believer;Imagine Dragons;Alternative;204;Evolve;2017
+Titanium;David Guetta ft. Sia;EDM;245;Nothing but the Beat;2011
+Thinking Out Loud;Ed Sheeran;Pop;281;x;2014
+Don't Stop Me Now;Queen;Rock;210;Jazz;1978
+Enter Sandman;Metallica;Metal;331;Metallica;1991
+Chandelier;Sia;Pop;216;1000 Forms of Fear;2014
+Happy;Pharrell Williams;Pop;233;Girl;2013
+I Gotta Feeling;Black Eyed Peas;Dance-Pop;288;The E.N.D.;2009
+Bad Romance;Lady Gaga;Pop;295;The Fame Monster;2009
+Grenade;Bruno Mars;Pop;223;Doo-Wops & Hooligans;2010
+Born to Run;Bruce Springsteen;Rock;279;Born to Run;1975
+Paint It Black;The Rolling Stones;Rock;200;Aftermath;1966
+Firework;Katy Perry;Pop;228;Teenage Dream;2010
+Yesterday;The Beatles;Rock/Pop;125;Help!;1965
+Thriller;Michael Jackson;Pop;357;Thriller;1982
+Dance Monkey;Tones and I;Pop;209;The Kids Are Coming;2019
+My Heart Will Go On;Celine Dion;Pop;280;Let's Talk About Love;1997
+Rockstar;Post Malone ft. 21 Savage;Trap;218;Beerbongs & Bentleys;2017
+Stronger;Kanye West;Rap;311;Graduation;2007
+Tusa;Karol G & Nicki Minaj;Reggaeton;200;KG0516;2019
+Take Me to Church;Hozier;Indie Rock;241;Hozier;2013
+Blowin' in the Wind;Bob Dylan;Folk;167;The Freewheelin’ Bob Dylan;1963
+Sultans of Swing;Dire Straits;Rock;346;Dire Straits;1978
+Bad Habits;Ed Sheeran;Pop;231;=;2021
+Call Me Maybe;Carly Rae Jepsen;Pop;193;Kiss;2012
+Lose Control;Teddy Swims;Soul/Pop;201;I've Tried Everything...;2023
+Zombie;The Cranberries;Alternative Rock;307;No Need to Argue;1994
+Without Me;Eminem;Rap;290;The Eminem Show;2002
+Sugar;Maroon 5;Pop;235;V;2015
+Riptide;Vance Joy;Indie Folk;203;Dream Your Life Away;2013
+Dream On;Aerosmith;Rock;273;Aerosmith;1973
+Counting Stars;OneRepublic;Pop;257;Native;2013
+Thunder;Imagine Dragons;Alternative;187;Evolve;2017
+The Scientist;Coldplay;Alternative;311;A Rush of Blood to the Head;2002
+Misery Business;Paramore;Pop Punk;212;Riot!;2007
+Levitating;Dua Lipa;Pop;203;Future Nostalgia;2020
+Stayin' Alive;Bee Gees;Disco;284;Saturday Night Fever;1977
+Toxic;Britney Spears;Pop;199;In the Zone;2003
+Eye of the Tiger;Survivor;Rock;245;Eye of the Tiger;1982
+Wrecking Ball;Miley Cyrus;Pop;221;Bangerz;2013
+Wake Me Up;Avicii;EDM;247;True;2013
+Californication;Red Hot Chili Peppers;Rock;322;Californication;1999
+All of Me;John Legend;R&B;269;Love in the Future;2013
+Mr. Brightside;The Killers;Rock;222;Hot Fuss;2003
+New Rules;Dua Lipa;Pop;209;Dua Lipa;2017
+La Bamba;Los Lobos;Rock Latino;165;La Bamba;1987
+Sicko Mode;Travis Scott;Trap;312;Astroworld;2018
+Your Song;Elton John;Soft Rock;242;Elton John;1970
+I Want to Hold Your Hand;The Beatles;Rock;145;Meet the Beatles;1963
+Gangnam Style;PSY;K-Pop;219;Psy 6;2012
+Smooth;Santana ft. Rob Thomas;Latin Rock;298;Supernatural;1999
+Dynamite;BTS;K-Pop;199;BE;2020
+Boulevard of Broken Dreams;Green Day;Rock;260;American Idiot;2004
+I Will Always Love You;Whitney Houston;Pop;273;The Bodyguard;1992
+Single Ladies;Beyoncé;R&B;194;I Am... Sasha Fierce;2008
+Clocks;Coldplay;Alternative;307;A Rush of Blood to the Head;2002
+Radio Ga Ga;Queen;Pop Rock;354;The Works;1984
+Sweet Dreams;Eurythmics;Synthpop;215;Sweet Dreams;1983
+Forget You;CeeLo Green;Soul Pop;219;The Lady Killer;2010
+Happy Together;The Turtles;Pop Rock;161;Happy Together;1967
+Shape of My Heart;Sting;Soft Rock;270;Ten Summoner's Tales;1993
+My Universe;Coldplay & BTS;Pop;229;Music of the Spheres;2021
+Break My Heart;Dua Lipa;Pop;223;Future Nostalgia;2020
+All Star;Smash Mouth;Alt Rock;201;Astro Lounge;1999
+I Kissed a Girl;Katy Perry;Pop;179;One of the Boys;2008
+Closer to Fine;Indigo Girls;Folk Rock;271;Indigo Girls;1989
+Zombie Nation;Kernkraft 400;Techno;320;Leichenschmaus;1999
+Summer of '69;Bryan Adams;Rock;215;Reckless;1984
+Royals;Lorde;Electropop;211;Pure Heroine;2013
+Rather Be;Clean Bandit ft. Jess Glynne;EDM;247;New Eyes;2014
+Say You Won't Let Go;James Arthur;Pop;211;Back from the Edge;2016
+Faded;Alan Walker;EDM;212;Different World;2015
+Runaway;AURORA;Pop;233;All My Demons...;2015
+Heat Waves;Glass Animals;Indie Pop;238;Dreamland;2020
+Whatever It Takes;Imagine Dragons;Alternative;201;Evolve;2017
+All the Stars;Kendrick Lamar & SZA;Hip-Hop;232;Black Panther;2018
+Lucid Dreams;Juice WRLD;Rap;239;Goodbye & Good Riddance;2018
+Bad;Michael Jackson;Pop;247;Bad;1987
+Heat Above;Greta Van Fleet;Rock;328;The Battle at Garden’s Gate;2021
+Creep;Radiohead;Alternative Rock;238;Pablo Honey;1993
+Domino;Jessie J;Pop;230;Who You Are;2011
+Good 4 U;Olivia Rodrigo;Pop Punk;178;SOUR;2021
+Dance the Night;Dua Lipa;Pop;177;Barbie;2023
+Your Love;The Outfield;Rock;203;Play Deep;1985
+Part of Me;Katy Perry;Pop;227;Teenage Dream;2010
+Iris;Goo Goo Dolls;Rock;266;Dizzy Up the Girl;1998
+Shake It Off;Taylor Swift;Pop;242;1989;2014
+Message in a Bottle;The Police;Rock;300;Reggatta de Blanc;1979
+Let It Be;The Beatles;Rock;243;Let It Be;1970
+Can't Feel My Face;The Weeknd;Pop;214;Beauty Behind the Madness;2015
+Sugar, We're Goin Down;Fall Out Boy;Pop Punk;228;From Under the Cork Tree;2005
+The Middle;Zedd, Maren Morris, Grey;EDM;184;Single;2018
+The Nights;Avicii;EDM;176;The Days/Nights;2014
+Born This Way;Lady Gaga;Pop;260;Born This Way;2011
+Stressed Out;Twenty One Pilots;Alt/Pop;202;Blurryface;2015
+Take It Easy;Eagles;Rock;193;Eagles;1972
+Roxanne;The Police;Rock;191;Outlandos d'Amour;1978
+Flowers;Miley Cyrus;Pop;200;Endless Summer Vacation;2023
+As It Was;Harry Styles;Pop;167;Harry's House;2022
+Anti-Hero;Taylor Swift;Pop;200;Midnights;2022
+Don't Speak;No Doubt;Rock;253;Tragic Kingdom;1995
+Starboy;The Weeknd;R&B;230;Starboy;2016
+Blow;Ed Sheeran, Bruno Mars, Chris Stapleton;Rock;223;No.6 Collaborations;2019
+Strangers;Kenya Grace;Electronic;174;Single;2023
+Wonder;Shawn Mendes;Pop;174;Wonder;2020
+Smooth Criminal;Michael Jackson;Pop;257;Bad;1987
+Tequila;The Champs;Surf Rock;153;Single;1958
+I Just Called to Say I Love You;Stevie Wonder;Soul;278;The Woman in Red;1984
+Flashdance... What a Feeling;Irene Cara;Pop;243;Flashdance;1983
+Havana;Camila Cabello;Latin Pop;217;Camila;2017
+Bad Blood;Taylor Swift;Pop;211;1989;2015
+Happy Now;Zedd & Elley Duhé;EDM;210;Single;2018
+I Wanna Dance with Somebody;Whitney Houston;Pop;293;Whitney;1987
+Smack That;Akon ft. Eminem;Hip-Hop;236;Konvicted;2006
+Moves Like Jagger;Maroon 5 & Christina Aguilera;Pop;201;Hands All Over;2011
+In The End;Linkin Park;Nu Metal;217;Hybrid Theory;2000
+Happier;Marshmello ft. Bastille;EDM;214;Joytime II;2018
+Le Freak;Chic;Disco;328;Risqué;1978
+Thunder;AC/DC;Rock;273;The Razors Edge;1990
+Pompeii;Bastille;Indie Pop;217;Bad Blood;2013
+Dance with Me;Orleans;Soft Rock;215;Let There Be Music;1975
+On Top of the World;Imagine Dragons;Indie Pop;216;Night Visions;2012
+3 Nights;Dominic Fike;Indie Pop;178;Don't Forget About Me;2018
+Physical;Dua Lipa;Pop;194;Future Nostalgia;2020
+Treasure;Bruno Mars;Funk/Pop;178;Unorthodox Jukebox;2012
+Rude;MAGIC!;Reggae Fusion;224;Don't Kill the Magic;2013
+Waiting on the World to Change;John Mayer;Pop Rock;208;Continuum;2006
+Counting Blue Cars;Dishwalla;Alt Rock;283;Pet Your Friends;1995
+Get Lucky;Daft Punk ft. Pharrell;Funk/Disco;248;Random Access Memories;2013
+Thunderclouds;LSD;Pop;217;LSD;2018
+Something Just Like This;The Chainsmokers & Coldplay;EDM;248;Memories...Do Not Open;2017
+What Is Love;Haddaway;Eurodance;282;The Album;1993
+The Final Countdown;Europe;Rock;301;The Final Countdown;1986
+Paradise;Coldplay;Alternative;278;Mylo Xyloto;2011
+Take My Breath;The Weeknd;Synthpop;220;Dawn FM;2022
+My Songs Know...;Fall Out Boy;Alt Rock;207;Save Rock and Roll;2013
+Shotgun;George Ezra;Pop;219;Staying at Tamara's;2018
+Belong;Cash Cash & Dashboard Confessional;EDM;180;Single;2016
+We Are Young;fun. ft. Janelle Monáe;Indie;255;Some Nights;2012
+Sunroof;Nicky Youre & Dazy;Pop;137;Single;2022
+A Sky Full of Stars;Coldplay;EDM;266;Ghost Stories;2014
+Good Life;OneRepublic;Pop;261;Waking Up;2009
+Duele el Corazón;Enrique Iglesias;Latin Pop;209;Single;2016
+Thunder in Your Heart;John Farnham;Rock;239;Rad;1986
+Pepas;Farruko;Reggaeton;256;La 167;2021
+La Camisa Negra;Juanes;Latin Rock;216;Mi Sangre;2004
+Vivir Mi Vida;Marc Anthony;Salsa;256;Marc Anthony;2013
+La Bicicleta;Shakira & Carlos Vives;Latin Pop;223;Vives;2016
+Beso;Rosalía & Rauw Alejandro;Pop;189;RR;2023
+Tacones Rojos;Sebastián Yatra;Latin Pop;179;Dharma;2021
+Provenza;Karol G;Latin Pop;197;Mañana Será Bonito;2022
+Felices los 4;Maluma;Reggaeton;234;F.A.M.E.;2017
+Tu Sonrisa;Elvis Crespo;Merengue;213;Suavemente;1998
+Dákiti;Bad Bunny & Jhay Cortez;Reggaeton;208;El Último Tour del Mundo;2020
+Me Rehúso;Danny Ocean;Reggaeton;199;54+1;2016
+Bailando;Enrique Iglesias;Latin Pop;250;Sex and Love;2014
+Torero;Chayanne;Pop Latino;214;Grandes Éxitos;2002
+Rayando el Sol;Maná;Rock Latino;251;Falta Amor;1990
+Sí;Julieta Venegas;Pop Latino;209;Sí;2003
+Labios Compartidos;Maná;Rock Latino;289;Amar es Combatir;2006
+Llorar;Jesse & Joy;Pop Latino;247;¿Con Quién Se Queda el Perro?;2011
+Corazón Espinado;Santana & Maná;Latin Rock;256;Supernatural;1999
