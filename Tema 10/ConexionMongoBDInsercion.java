@@ -9,7 +9,7 @@ import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 import java.util.concurrent.TimeUnit;
 
-public class ConexionMongoBD {
+public class ConexionMongoBDInsercion {
     public static void main(String[] args) {
         // Definimos la URI de conexión
         String connectionString = "mongodb+srv://usuario_daw:Daw1B$@clustercelia.mkhc8y4.mongodb.net/";
@@ -32,7 +32,7 @@ public class ConexionMongoBD {
                 database.runCommand(new Document("ping", 1));
                 
                 // Si llegamos aquí, la conexión es real y efectiva
-                System.out.println("✅ ¡Conexión exitosa a la base de datos: " + database.getName() + "!");
+                System.out.println("¡Conexión exitosa a la base de datos: " + database.getName() + "!");
                 
                 // Ahora sí, accedemos a la colección con seguridad
                 MongoCollection<Document> coleccionAlumnos = database.getCollection("alumnos");
@@ -52,7 +52,7 @@ public class ConexionMongoBD {
 
             } catch (MongoException e) {
                 // Si el ping falla o el usuario/password es incorrecto, saltará aquí
-                System.err.println("❌ Error de conexión: El servidor no responde o las credenciales son incorrectas.");
+                System.err.println("Error de conexión: El servidor no responde o las credenciales son incorrectas.");
                 System.err.println("Detalle técnico: " + e.getLocalizedMessage());
             }
 
