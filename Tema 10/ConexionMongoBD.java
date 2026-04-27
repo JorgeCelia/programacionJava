@@ -61,7 +61,7 @@ public class ConexionMongoBD {
                 System.out.println("Lista de alumnas y alumnos becados:");
                 System.out.println("===================================");
 
-                // 2. Recorremos con un for-each
+                //Recorremos la lista de resultados con un for-each
                 for (Document alumno : resultados) {
                     System.out.println("Nombre: " + alumno.getString("nombre"));
     
