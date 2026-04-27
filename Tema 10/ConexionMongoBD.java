@@ -4,6 +4,7 @@ import com.mongodb.ConnectionString;
 import com.mongodb.MongoClientSettings;
 import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoCollection;
+import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
@@ -43,15 +44,34 @@ public class ConexionMongoBD {
 
                 // Buscamos un alumno por su expediente
                 Document resultado = coleccionAlumnos
-                     .find(Filters.eq("expediente", "2026-001"))
+                     .find(Filters.eq("expediente", "2026-003"))
                      .first();
 
                 if (resultado != null) {
+                    System.out.println("Alumno/a con el expediente 2026-003");
                     System.out.println("Nombre: " + resultado.getString("nombre"));
                     // Accedemos a los datos anidados
                     Document contacto = (Document) resultado.get("contacto");
                     System.out.println("Email: " + contacto.getString("email"));
                 }   
+
+                //Buscamos los alumnos becados
+                FindIterable<Document> resultados = coleccionAlumnos.find(Filters.eq("becado", true));
+
+                System.out.println("Lista de alumnas y alumnos becados:");
+                System.out.println("===================================");
+
+                // 2. Recorremos con un for-each
+                for (Document alumno : resultados) {
+                    System.out.println("Nombre: " + alumno.getString("nombre"));
+    
+                    // Accedemos al subdocumento "contacto"
+                    Document contacto = (Document) alumno.get("contacto");
+                    System.out.println("Email: " + contacto.getString("email"));
+                    System.out.println("----------------------------------------------------");
+                }
+
+
             } catch (MongoException e) {
                 // Si el ping falla o el usuario/password es incorrecto, saltará aquí
                 System.err.println("ERROR DE CONEXIÓN: El servidor no responde o las credenciales son incorrectas.");
