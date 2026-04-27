@@ -7,7 +7,7 @@ public class calculaIVA {
         
         //Pedimos los datos al usuario
         Scanner lector = new Scanner(System.in);
-        System.out.print("Introduzca el precio que ha pagado: ");
+        System.out.print("Introduzca el precio que has pagado: ");
         precio = lector.nextDouble();
         lector.close();
 
