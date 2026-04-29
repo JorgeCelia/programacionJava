@@ -1,0 +1,37 @@
+﻿CREATE TABLE contratos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    tipo_contrato CHAR(1) NOT NULL CHECK (tipo_contrato IN ('I', 'T')),
+    nombre_empleado VARCHAR(100) NOT NULL,
+    dni VARCHAR(9) NOT NULL UNIQUE,
+    salario DECIMAL(10, 2) NOT NULL,
+    fecha_inicio DATE NOT NULL,
+    fecha_fin DATE DEFAULT NULL
+);
+
+INSERT INTO contratos (tipo_contrato, nombre_empleado, dni, salario, fecha_inicio, fecha_fin) VALUES
+('I', 'Alejandro Ruiz', '12345678A', 2450.00, '2020-01-15', NULL),
+('T', 'Beatriz Gómez', '23456789B', 1800.50, '2024-02-01', '2024-08-01'),
+('I', 'Carlos Martín', '34567890C', 3100.00, '2019-05-20', NULL),
+('I', 'Diana Soler', '45678901D', 2200.00, '2021-11-10', NULL),
+('T', 'Elena Blanco', '56789012E', 1650.00, '2024-01-10', '2024-04-10'),
+('I', 'Fernando Cano', '67890123F', 2750.80, '2018-03-25', NULL),
+('I', 'Gloria Sanz', '78901234G', 2900.00, '2022-06-14', NULL),
+('T', 'Hugo Torres', '89012345H', 1950.00, '2023-12-01', '2024-06-01'),
+('I', 'Irene Bosch', '90123456I', 3500.00, '2015-09-01', NULL),
+('T', 'Javier Gil', '01234567J', 1700.25, '2024-03-15', '2024-09-15'),
+('I', 'Karla Peña', '11223344K', 2100.00, '2023-01-20', NULL),
+('I', 'Luis Ramos', '22334455L', 2600.00, '2020-07-12', NULL),
+('T', 'Marta Vila', '33445566M', 1850.00, '2024-02-15', '2024-05-15'),
+('I', 'Natalia Diez', '44556677N', 2300.50, '2021-04-30', NULL),
+('T', 'Oscar León', '55667788O', 1600.00, '2024-04-01', '2024-10-01'),
+('I', 'Pablo Vega', '66778899P', 4200.00, '2010-10-10', NULL),
+('I', 'Raquel Mora', '77889900Q', 2050.00, '2022-02-28', NULL),
+('T', 'Sergio Lara', '88990011R', 2100.00, '2023-11-20', '2024-05-20'),
+('I', 'Teresa Ortiz', '99001122S', 2800.00, '2017-12-05', NULL),
+('T', 'Urbano Rey', '00112233U', 1750.00, '2024-01-05', '2024-07-05'),
+('I', 'Verónica Mas', '10203040V', 3000.00, '2019-08-22', NULL),
+('T', 'Walter Cid', '50607080W', 1900.00, '2023-10-01', '2024-04-01'),
+('I', 'Xavier Ros', '90807060X', 2400.00, '2021-03-15', NULL),
+('T', 'Yolanda Paz', '40302010Y', 2200.00, '2024-03-01', '2024-12-31'),
+('I', 'Zaira Luna', '13579246Z', 2700.00, '2016-05-18', NULL);
+
