@@ -1,0 +1,10 @@
+Medicamento#Amoxicilina 500mg#Kern Pharma#8.20#true
+Producto#Agua oxigenada 250ml#Cinfa#1.80#0
+Medicamento#Ibuprofeno 400mg#Ratiopharm#4.10#false
+Producto#Jeringuillas 10u#B.Braun#3.60#0
+Medicamento#Lorazepam 1mg#Normon#2.90#true
+Producto#Alcohol 96° 250ml#Cinfa#2.10#0
+Medicamento#Paracetamol 1g#Normon#3.50#false
+Producto#Termómetro digital#Orion#12.99#0
+Medicamento#Omeprazol 20mg#Stada#4.80#false
+Producto#Gasas estériles 10u#Hartmann#1.95#0
